@@ -1,5 +1,7 @@
-kenwin-challenge
+FocusList-app
 -
+
+https://task-app-api-backend.onrender.com/
 
 # Introducción
 
@@ -141,38 +143,27 @@ Para finalizar una tarea se debe enviar por parámetro el id de la tarea, este s
 
 # Front-end
 
-Esta app incluye un frontend donde el usuario puede registrarse:
+SignUp:
+![image](https://github.com/user-attachments/assets/e56c22db-3135-4932-99c1-fd7ee8a41dde)
 
-![My Image](src/images/sign_up.png)
+Login:
+![image](https://github.com/user-attachments/assets/b8bc4b8d-f9f1-4aee-92f7-8ee8c190dc9b)
 
-Una vez registrado, se debe iniciar sesión:
+Home:
+![image](https://github.com/user-attachments/assets/5c4499fb-60dc-426a-acda-98cf0fd1a3de)
 
-![My Image](src/images/login.png)
+Create new task:
+![image](https://github.com/user-attachments/assets/72d46008-fb0c-408d-8c39-870ec9cc6d4c)
 
-Luego de iniciar sesión con nuestras credenciales, veremos un Home de bienvenida: 
+Filter your tasks:
+![image](https://github.com/user-attachments/assets/9f9e6733-fb8a-4614-90d8-b7cde6508cc8)
 
-![My Image](src/images/user_profile.png)
+Task details:
+![image](https://github.com/user-attachments/assets/bcc092aa-cad6-431a-a627-37bbb90dc227)
 
-En este home tendremos algunos datos de nuestra cuenta, un access_token y los botones de cambiar contraseña y cerrar sesión.
-<br>
+Tasks in progress filter:
+![image](https://github.com/user-attachments/assets/9d1d9e87-d397-4fbc-bc9e-ba182e9fe773)
 
-Tambien es posible cambiar nuestra conseseña, para ello, hacer clic en el boton de change_password y colocar nuestra nueva contraseña y repetirla.
-
-![My Image](src/images/reset_pass.png)
-
-
-
-Otra funcionalidad importante es que podemos crear tareas:
-
-![My Image](src/images/create_task.png)
-
-Luego de darle a crear, observamos los detalles de nuestra tarea:
-
-![My Image](src/images/task_detail.png)
-
-Si le damos al boton de finalizar, dicha tarea cambiara su status y seteara la fecha en la que se finalizo:
-
-![My Image](src/images/task_finished.png)
 
 
 <br>
